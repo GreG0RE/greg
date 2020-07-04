@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:32, Tv Educa Chile 
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
